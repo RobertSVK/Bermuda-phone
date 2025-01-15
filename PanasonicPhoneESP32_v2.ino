@@ -1,5 +1,6 @@
 // 2024-07-30
 // Tested for WEMOS ESP8266
+// not tested for ESP32
 // *********************************************************************************
 
 #include <esp-fs-webserver.h>   // https://github.com/cotestatnt/esp-fs-webserver
